@@ -1,0 +1,222 @@
+@media only screen and (max-width:600px) {
+    .first-sec-data {
+        min-height: 60vh !important;
+    }
+    .first-sec-text-matter h1 {
+        font-size: 50px !important;
+        width: 100%;
+    }
+    .first-sec-text-matter p {
+        width: 100%;
+    }
+    .second-left-sec {
+        min-height: auto;
+    }
+    .second-left-sec img {
+        width: 90%;
+    }
+    .third-main-sec h1 {
+        width: 100% !important;
+        font-size: 30px !important;
+    }
+    /*     
+    .card-item {
+        width: 100%;
+        height: 90%;
+    }  */
+    .fourth-right-sec img {
+        width: 90%;
+    }
+    /* .fourth-card {
+        width: 100% !important;
+    } */
+    /* .sixth-main-sec {
+        min-height: 130vh !important;
+    } */
+    .sixth-data-sec {
+        /* min-height: 100vh !important; */
+        width: 100% !important;
+    }
+    .sixth-left-sec {
+        min-height: 250px;
+    }
+    .seventh-card {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .seventh-item-card {
+        width: 95% !important; 
+    }
+    .footer-sec h5 {
+        margin-top: 40px;
+    }
+    .footer-card:nth-child(4) {
+        min-height: 200px !important;
+    }
+    
+}
+@media only screen and (max-width:431px) {
+    .first-sec-data {
+        min-height: 60vh !important;
+    }
+    .first-sec-text-matter h1 {
+        font-size: 50px;
+        width: 100%;
+    }
+    .first-sec-text-matter p {
+        width: 100%;
+    }
+
+    .second-left-sec img {
+        height: 500px;
+    }
+    
+    .third-main-sec h1 {
+        width: 100% !important;
+        font-size: 25px !important;
+    }
+    /* .fifth-main-sec {
+        height: 100vh !important;
+    } */
+    /* .sixth-main-sec {
+        min-height: 70vh !important;
+    } */
+    /* .sixth-data-sec {
+        min-height: 50vh !important;
+    } */
+    /* .footer-sec {
+        min-height: 170vh !important;
+    } */
+    .footer-card:nth-child(4) {
+        min-height: 200px !important;
+    }
+    
+    
+}
+
+
+@media only screen and (max-width:768px) {
+    .first-sec-data {
+        min-height: 80vh !important;
+    }
+    .first-sec-text-matter h1 {
+        font-size: 80px;
+    }
+    .first-sec-text-matter p {
+        width: 100%;
+    }
+    .third-main-sec h1 {
+        width: 100% !important;
+        font-size: 30px !important;
+    }
+    .fourth-card-con {
+        display: flex;
+        flex-wrap: wrap;
+        /* padding-left: 50px !important; */
+    }
+    /* .card-item {
+        width: 100%;
+        height: 90%;
+    }  */
+    /* .sixth-main-sec {
+        height: 90vh;
+    } */
+    .sixth-data-sec {
+        /* height: auto; */
+        width: 100% !important;
+    }
+    .sixth-right-sec p {
+        font-size: 20px !important;
+    }
+    .seventh-card {
+        height: 450px;
+    }
+    .footer-card:nth-child(4) {
+        min-height: 200px;
+    }
+    /* .footer-sec {
+        min-height: 130vh;
+    } */
+    
+}
+
+
+/* @media only screen and (max-width:1024px) */
+
+@media (min-width: 720px) and (max-width: 1000px)
+
+{
+    .first-sec-data {
+        min-height: 800px !important;
+    }
+
+    .second-left-sec img {
+        width: 90%;
+
+    }
+    .third-main-sec h1 {
+        width: 80%;
+    }
+    .card-item h3 {
+        font-size: 20px;
+    }
+    .card-item p {
+        font-size: 15px !important;
+    }
+    /* .fourth-item-card h3 {
+        font-size: 20px !important;
+    } */
+    .fourth-item-card p {
+        width: 100% !important;
+    }
+    .fourth-right-sec img {
+        height: 80%;
+        width: 100%;
+    }
+    
+    /* .fifth-item-card {
+        width: 100% ;
+    } */
+
+    /* .sixth-main-sec {
+        height: 90vh !important;
+    } */
+    .sixth-data-sec {
+        width: 100% !important;
+    }
+
+    .seventh-item-card h5 {
+        font-size: 17px !important;
+    }
+    .seventh-card {
+        height: 400px;
+    }
+    .eight-right-sec h4 {
+        font-size: 20px;
+    }
+    .footer-sec h5 {
+        margin-top: 30px;
+    }
+   .footer-item-card h3 {
+        font-size: 20px;
+   }
+   .footer-item-card p {
+    font-size: 15px !important;
+   }
+} 
+
+@media only screen and (max-width:810px) {
+
+    .first-sec-data {
+        min-height: 700px !important;
+    }
+}
+
+@media only screen and (min-width:1280px) {
+    .fifth-item-card {
+        width: 100% !important;
+    } 
+
+
+}
